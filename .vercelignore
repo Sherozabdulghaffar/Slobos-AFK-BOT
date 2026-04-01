@@ -1,0 +1,3 @@
+# Exclude Bedrock Edition game data — this bot connects to Java Edition only.
+# Bedrock data in minecraft-data is ~278 MB and is not needed at runtime.
+node_modules/minecraft-data/minecraft-data/data/bedrock
